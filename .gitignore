@@ -5,4 +5,8 @@
 .ipynb_checkpoints/
 
 # VS Code
+<<<<<<< HEAD
 .vscode/
+=======
+.vscode/
+>>>>>>> 762e74e8421c045ec142ffdbaa76f86d0e3f7817
